@@ -1,0 +1,4 @@
+work_dir: cfpdb_repo
+repo_url: https://github.com/dlazesz/dh-cfpdb.git
+username: dlazesz
+token: TOKEN_GOES_HERE
