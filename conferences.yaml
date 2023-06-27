@@ -1,0 +1,42 @@
+#!/bin/sh
+# -*- coding: utf-8, vim: expandtab:ts=4 -*-
+# The origin of the idea of 'runable yaml': https://gist.github.com/corvax19/5661251
+python3 -c '
+import yaml
+import sys
+try:
+    yaml.safe_load(sys.stdin)
+except yaml.YAMLError as exc:
+    if hasattr(exc, 'problem_mark'):
+        shifting = 17  # Line no. where "%YAML 1.1" is! (Numbering starts from 0!)
+        exc.problem_mark.line += shifting
+        exc.context_mark.line += shifting
+    print("Syntax error: {0}".format(exc))
+    sys.exit(1)
+print("Syntax OK!")
+'<<EOF
+%YAML 1.1
+---
+"14th Tbilisi Symposium on Logic, Language and Computation (TbiLLC 2023)":
+    begin: 2023-09-18
+    end:   2023-09-22
+    location: Tibilisi, Georgia
+    submission:   2023-03-17
+    notification: 2023-05-24
+    camera-ready: 2023-06-26
+    url: https://events.illc.uva.nl/Tbilisi/Tbilisi2023
+    remark: |
+        ...
+
+"EACL 2023":
+    begin: 2023-05-03
+    end:   2023-05-05
+    location: Dubrovnik, Croatia
+    submission:   2022-10-20
+    notification: 2023-01-20
+    camera-ready: 2023-02-10
+    url: https://2023.eacl.org
+    remark: |
+        ...
+...
+EOF
