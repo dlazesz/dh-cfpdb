@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221020
+LOCATION:Dubrovnik\, Croatia
+SUMMARY:SUBMISSION: EACL 2023
+UID:9e6933b9-1e92-4923-aaab-c8d086f7fbc2@9e69.org
+URL:https://2023.eacl.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230626
+LOCATION:Tibilisi\, Georgia
+SUMMARY:CAMERA-READY: 14th Tbilisi Symposium on Logic\, Language and Computation (TbiLLC 2023)
+UID:3d29e38d-e9f2-43c9-bd63-61342922f85f@3d29.org
+URL:https://events.illc.uva.nl/Tbilisi/Tbilisi2023
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230210
+LOCATION:Dubrovnik\, Croatia
+SUMMARY:CAMERA-READY: EACL 2023
+UID:d364db14-2a32-4cb3-960c-e7908684bce5@d364.org
+URL:https://2023.eacl.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230317
+LOCATION:Tibilisi\, Georgia
+SUMMARY:SUBMISSION: 14th Tbilisi Symposium on Logic\, Language and Computation (TbiLLC 2023)
+UID:99b28520-7ea3-4710-ab1a-ff5ee38cfa94@99b2.org
+URL:https://events.illc.uva.nl/Tbilisi/Tbilisi2023
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230918
+DURATION:P5D
+LOCATION:Tibilisi\, Georgia
+SUMMARY:14th Tbilisi Symposium on Logic\, Language and Computation (TbiLLC 2023)
+UID:452f04cd-07fa-4f97-8e01-dba6ba1afecd@452f.org
+URL:https://events.illc.uva.nl/Tbilisi/Tbilisi2023
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230524
+LOCATION:Tibilisi\, Georgia
+SUMMARY:NOTIFICATION: 14th Tbilisi Symposium on Logic\, Language and Computation (TbiLLC 2023)
+UID:aa20c0aa-fe9b-409c-9939-5e361df64142@aa20.org
+URL:https://events.illc.uva.nl/Tbilisi/Tbilisi2023
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230120
+LOCATION:Dubrovnik\, Croatia
+SUMMARY:NOTIFICATION: EACL 2023
+UID:af293f11-9dc6-4d7a-a8b3-09f9f0208c26@af29.org
+URL:https://2023.eacl.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230503
+DURATION:P3D
+LOCATION:Dubrovnik\, Croatia
+SUMMARY:EACL 2023
+UID:92febe7a-03e5-48b9-8e2a-70c89fd92ac3@92fe.org
+URL:https://2023.eacl.org
+END:VEVENT
+END:VCALENDAR
