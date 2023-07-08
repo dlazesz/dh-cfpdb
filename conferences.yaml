@@ -17,26 +17,126 @@ print("Syntax OK!")
 '<<EOF
 %YAML 1.1
 ---
-"14th Tbilisi Symposium on Logic, Language and Computation (TbiLLC 2023)":
-    begin: 2023-09-18
-    end:   2023-09-22
-    location: Tibilisi, Georgia
-    submission:   2023-03-17
-    notification: 2023-05-24
-    camera-ready: 2023-06-26
-    url: https://events.illc.uva.nl/Tbilisi/Tbilisi2023
+#"14th Tbilisi Symposium on Logic, Language and Computation (TbiLLC 2023)":
+#    begin: 2023-09-18
+#    end:   2023-09-22
+#    location: Tibilisi, Georgia
+#    submission:   2023-03-17
+#    notification: 2023-05-24
+#    camera-ready: 2023-06-26
+#    url: https://events.illc.uva.nl/Tbilisi/Tbilisi2023
+#    remark: |
+#        ...
+#
+#"EACL 2023":
+#    begin: 2023-05-03
+#    end:   2023-05-05
+#    location: Dubrovnik, Croatia
+#    submission:   2022-10-20
+#    notification: 2023-01-20
+#    camera-ready: 2023-02-10
+#    url: https://2023.eacl.org
+#    remark: |
+#       ...
+"DARIAH Annual Event 2023":
+    begin: 2023-06-06
+    end: 2023-06-09
+    location: Budapest, Hungary
+    submission: xxxx-xx-xx
+    notification: xxxx-xx-xx
+    camera-ready: xxxx-xx-xx
+    url: https://annualevent.dariah.eu/
+    remark: This event has passed.
+        ...
+
+"ADHO 2023":
+    begin: 2023-07-10
+    end: 2023-07-14
+    location: Graz, Austria
+    submission: 2022-11-04
+    notification: 2023-03-08
+    camera-ready: 2023-xx-xx
+    url: https://dh2023.adho.org/
+    remark:
+        ...
+
+"1st Conference on Research Data Infrastructure (CoRDI)":
+    begin: 2023-09-12
+    end: 2023-09-14
+    location: Karlsruhe, Germany
+    submission: 2023-04-26
+    notification: 2023-07-xx
+    camera-ready: 2023-06-20
+    url: https://www.nfdi.de/cordi-2023/?lang=en
+    remark: Registration is free, 2023-08-31.
+        ...
+
+"Life Narrative and the Digital 2023":
+    begin: 2023-09-26
+    end: 2023-09-27
+    location: Vienna, Austria
+    submission: 2023-05-26
+    notification: 2023-06-23
+    camera-ready: 2023-xx-xx
+    url: https://digital-bio-2023.acdh.oeaw.ac.at/
     remark: |
         ...
 
-"EACL 2023":
-    begin: 2023-05-03
-    end:   2023-05-05
-    location: Dubrovnik, Croatia
-    submission:   2022-10-20
-    notification: 2023-01-20
-    camera-ready: 2023-02-10
-    url: https://2023.eacl.org
+"CLARIN Annual Conference 2023":
+    begin: 2023-10-16
+    end: 2023-10-18
+    location: Leuven, Belgium
+    submission: 2023-04-28
+    notification: 2023-06-04
+    camera-ready: 2023-09-04
+    url: https://www.clarin.eu/event/2023/clarin-annual-conference-2023
     remark: |
+        ...
+
+"Computational Humanities Research":
+    begin: 2023-12-06
+    end: 2023-12-08
+    location: Paris, France
+    submission: 2023-07-24
+    notification: 2023-09-xx
+    camera-ready: 2023-10-xx
+    url: https://2023.computational-humanities-research.org/
+    remark: |
+        ...
+
+"DARIAH Annual Event 2024":
+    begin: 2024-06-18
+    end: 2024-06-21
+    location: Lisbon, Portugal
+    submission: xxxx-xx-xx
+    notification: xxxx-xx-xx
+    camera-ready: xxxx-xx-xx
+    url: https://annualevent.dariah.eu/
+    remark: |
+        ...
+
+"ADHO 2024":
+    begin: xxxx-xx-xx
+    end: xxxx-xx-xx
+    location: Washington, DC, USA
+    submission: xxxx-xx-xx
+    notification: xxxx-xx-xx
+    camera-ready: xxxx-xx-xx
+    url:
+    remark: |
+        ...
+
+
+
+"":
+    begin:
+    end:
+    location:
+    submission:
+    notification:
+    camera-ready:
+    url:
+    remark:
         ...
 ...
 EOF
