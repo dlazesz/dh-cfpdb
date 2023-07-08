@@ -17,27 +17,28 @@ print("Syntax OK!")
 '<<EOF
 %YAML 1.1
 ---
-#"14th Tbilisi Symposium on Logic, Language and Computation (TbiLLC 2023)":
-#    begin: 2023-09-18
-#    end:   2023-09-22
-#    location: Tibilisi, Georgia
-#    submission:   2023-03-17
-#    notification: 2023-05-24
-#    camera-ready: 2023-06-26
-#    url: https://events.illc.uva.nl/Tbilisi/Tbilisi2023
-#    remark: |
-#        ...
-#
-#"EACL 2023":
-#    begin: 2023-05-03
-#    end:   2023-05-05
-#    location: Dubrovnik, Croatia
-#    submission:   2022-10-20
-#    notification: 2023-01-20
-#    camera-ready: 2023-02-10
-#    url: https://2023.eacl.org
-#    remark: |
-#       ...
+"14th Tbilisi Symposium on Logic, Language and Computation (TbiLLC 2023)":
+    begin: 2023-09-18
+    end:   2023-09-22
+    location: Tibilisi, Georgia
+    submission:   2023-03-17
+    notification: 2023-05-24
+    camera-ready: 2023-06-26
+    url: https://events.illc.uva.nl/Tbilisi/Tbilisi2023
+    remark: |
+        ...
+
+"EACL 2023":
+    begin: 2023-05-03
+    end:   2023-05-05
+    location: Dubrovnik, Croatia
+    submission:   2022-10-20
+    notification: 2023-01-20
+    camera-ready: 2023-02-10
+    url: https://2023.eacl.org
+    remark: |
+       ...
+
 "DARIAH Annual Event 2023":
     begin: 2023-06-06
     end: 2023-06-09
@@ -125,16 +126,5 @@ print("Syntax OK!")
     url:
     remark: |
         ...
-#
-#"":
-#    begin:
-#    end:
-#    location:
-#    submission:
-#    notification:
-#    camera-ready:
-#    url:
-#    remark:
-#        ...
 ...
 EOF
