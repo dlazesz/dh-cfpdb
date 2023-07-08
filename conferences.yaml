@@ -125,18 +125,16 @@ print("Syntax OK!")
     url:
     remark: |
         ...
-
-
-
-"":
-    begin:
-    end:
-    location:
-    submission:
-    notification:
-    camera-ready:
-    url:
-    remark:
-        ...
+#
+#"":
+#    begin:
+#    end:
+#    location:
+#    submission:
+#    notification:
+#    camera-ready:
+#    url:
+#    remark:
+#        ...
 ...
 EOF
