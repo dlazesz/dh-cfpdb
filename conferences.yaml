@@ -17,6 +17,17 @@ print("Syntax OK!")
 '<<EOF
 %YAML 1.1
 ---
+"IIPC Web Archiving Conference 2024":
+    begin: 2024-04-24
+    end: 2024-04-26
+    location: Paris, France
+    submission: 2023-09-24
+    notification: 2023-11-13
+    camera-ready: 2023-11-20
+    url: https://netpreserve.org/ga2024/cfp/
+    remark: |
+        ...
+
 "DARIAH Annual Event 2024":
     begin: 2024-06-18
     end: 2024-06-21
