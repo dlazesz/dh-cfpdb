@@ -40,12 +40,12 @@ print("Syntax OK!")
         ...
 
 "ADHO 2024":
-    begin: 2024-XX-XX
-    end: 2024-XX-XX
+    begin: 2024-08-06
+    end: 2024-08-09
     location: Washington, DC, USA
-    submission: 2024-XX-XX
-    notification: 2024-XX-XX
-    camera-ready: 2024-XX-XX
+    submission: 2023-12-05
+    notification: 2024-03-05
+    camera-ready: 2024-03-05
     url: https://dh2024.adho.org/
     remark: |
         ...
