@@ -32,9 +32,9 @@ print("Syntax OK!")
     begin: 2024-06-18
     end: 2024-06-21
     location: Lisbon, Portugal
-    submission: 2024-XX-XX
-    notification: 2024-XX-XX
-    camera-ready: 2024-XX-XX
+    submission: 2023-02-04
+    notification: 2024-03-25
+    camera-ready: 2024-03-25
     url: https://annualevent.dariah.eu/
     remark: |
         ...
@@ -43,7 +43,7 @@ print("Syntax OK!")
     begin: 2024-08-06
     end: 2024-08-09
     location: Washington, DC, USA
-    submission: 2023-12-05
+    submission: 2023-12-10
     notification: 2024-03-05
     camera-ready: 2024-03-05
     url: https://dh2024.adho.org/
