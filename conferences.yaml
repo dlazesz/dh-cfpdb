@@ -17,6 +17,17 @@ print("Syntax OK!")
 '<<EOF
 %YAML 1.1
 ---
+"IFLA International News Media Conference 2024":
+    begin: 2024-05-29
+    end: 2024-05-31
+    location: Aarhus, Dánia
+    submission: 2024-02-09
+    notification: 2024-03-01
+    camera-ready: 2024-05-10
+    url: https://twitter.com/ifla_libpub/status/1747230231188971889
+    remark: |
+        ...
+
 "IIPC Web Archiving Conference 2024":
     begin: 2024-04-24
     end: 2024-04-26
