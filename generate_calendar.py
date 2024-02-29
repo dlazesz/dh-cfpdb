@@ -14,8 +14,8 @@ from ics import Calendar, Event
 # Secondary sorting key order...
 event_order = ('submission', 'notification', 'camera-ready', 'begin', 'end')
 events = {event: i for i, event in enumerate(event_order)}
-far_past = date.today().replace(year=date.today().year-10)
-far_future = date.today().replace(year=date.today().year+10)
+far_past = date(1, 1, 1)
+far_future = date(9999, 12, 31)
 
 
 def load_yaml(cfg_file):
