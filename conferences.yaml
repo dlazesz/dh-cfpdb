@@ -17,6 +17,28 @@ print("Syntax OK!")
 '<<EOF
 %YAML 1.1
 ---
+"CLARIN Annual Conference 2024":
+    begin: 2023-10-15
+    end: 2023-10-17
+    location: Barcelona, Spain
+    submission: 2024-04-12
+    notification: 2023-06-17
+    camera-ready: 2023-09-02
+    url: https://clariah.at/call-for-abstracts-clarin-2024/
+    remark: |
+        ...
+
+"Texts, languages, and communities – TEI 2024":
+    begin: 2024-10-07
+    end: 2024-10-11
+    location: Buenos Aires, Argentina
+    submission: 2024-04-30
+    notification: 2024-06-16
+    camera-ready: 2023-08-02
+    url: https://tei2024.tei-c.org/dates
+    remark: |
+        ...
+
 "DHd 2024":
     begin: 2024-02-25
     end: 2024-03-01
