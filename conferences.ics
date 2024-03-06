@@ -2,336 +2,366 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20221104
+DTSTART;VALUE=DATE:20230710
+DURATION:P5D
 LOCATION:Graz\, Austria
-SUMMARY:SUBMISSION: ADHO 2023
-UID:7885c26c-ff6b-4072-872d-7eed7f5d742c@7885.org
+SUMMARY:ADHO 2023
+UID:81d879f0-f23a-472f-b9bf-ce699639bd77@81d8.org
 URL:https://dh2023.adho.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231013
-LOCATION:Paris\, France
-SUMMARY:CAMERA-READY: Computational Humanities Research
-UID:76215b75-ea37-4a2b-abf7-550a4f10e894@7621.org
-URL:https://2023.computational-humanities-research.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240412
-LOCATION:Barcelona\, Spain
-SUMMARY:SUBMISSION: CLARIN Annual Conference 2024
-UID:c43dd47b-5515-4dc8-add8-6046f3ba565b@c43d.org
-URL:https://clariah.at/call-for-abstracts-clarin-2024/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241015
-DURATION:P3D
-LOCATION:Barcelona\, Spain
-SUMMARY:CLARIN Annual Conference 2024
-UID:87e02521-f148-4e22-ad78-9fec0da5a52f@87e0.org
-URL:https://clariah.at/call-for-abstracts-clarin-2024/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240616
-LOCATION:Buenos Aires\, Argentina
-SUMMARY:NOTIFICATION: Texts\, languages\, and communities – TEI 2024
-UID:1880bf0f-7fc3-4637-ad7d-eca639703ffc@1880.org
-URL:https://tei2024.tei-c.org/dates
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240120
-LOCATION:Kitakyushu\, Japan
-SUMMARY:NOTIFICATION: 2nd International Workshop on Digital Humanities and Digital World (DHDW 2024)
-UID:b6b7a93b-65fc-4afb-872a-21831eced589@b6b7.org
-URL:https://parsec.unicampania.it/workshops/index.php/dhdw/dhdw24/index
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230801
-LOCATION:Paris\, France
-SUMMARY:SUBMISSION: Computational Humanities Research
-UID:d70895ad-c9ff-45af-b98e-4e3971358480@d708.org
-URL:https://2023.computational-humanities-research.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240902
-LOCATION:Barcelona\, Spain
-SUMMARY:CAMERA-READY: CLARIN Annual Conference 2024
-UID:d8e384ba-1008-4749-aefc-d31f6222cb82@d8e3.org
-URL:https://clariah.at/call-for-abstracts-clarin-2024/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230428
-LOCATION:Leuven\, Belgium
-SUMMARY:SUBMISSION: CLARIN Annual Conference 2023
-UID:8c119104-ab17-4e61-ade5-9c3cafb50650@8c11.org
-URL:https://www.clarin.eu/event/2023/clarin-annual-conference-2023
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230623
-LOCATION:Vienna\, Austria
-SUMMARY:NOTIFICATION: Life Narrative and the Digital 2023
-UID:368c2a33-8626-4b06-a922-91eb38a09c6e@368c.org
-URL:https://digital-bio-2023.acdh.oeaw.ac.at/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240205
-LOCATION:Kitakyushu\, Japan
-SUMMARY:CAMERA-READY: 2nd International Workshop on Digital Humanities and Digital World (DHDW 2024)
-UID:79aff619-9525-4215-8b7c-190b9ca48143@79af.org
-URL:https://parsec.unicampania.it/workshops/index.php/dhdw/dhdw24/index
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230904
-LOCATION:Leuven\, Belgium
-SUMMARY:CAMERA-READY: CLARIN Annual Conference 2023
-UID:8998ba20-568f-46ce-9f8f-f08248306549@8998.org
-URL:https://www.clarin.eu/event/2023/clarin-annual-conference-2023
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230208
-LOCATION:Budapest\, Hungary
-SUMMARY:SUBMISSION: DARIAH Annual Event 2023
-UID:c7283af6-b548-4f3f-b601-3fe3de4dc52e@c728.org
-URL:https://annualevent.dariah.eu/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240301
-LOCATION:Sheffield\, Egyesült Királyság
-SUMMARY:SUBMISSION: Digital Humanities Congress 2024
-UID:cf9abdee-2f17-46e0-8582-1834bf75dc87@cf9a.org
-URL:https://www.dhi.ac.uk/dhc2024/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20231120
 LOCATION:Paris\, France
 SUMMARY:CAMERA-READY: IIPC Web Archiving Conference 2024
-UID:ba4765a0-c989-4bdc-b14e-9637d02ab7e6@ba47.org
+UID:355eb646-746d-4d43-b5e2-2eca2be98a52@355e.org
 URL:https://netpreserve.org/ga2024/cfp/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230526
-LOCATION:Vienna\, Austria
-SUMMARY:SUBMISSION: Life Narrative and the Digital 2023
-UID:7b400aa0-d2e5-42a0-a8d7-665a8aeabbd3@7b40.org
-URL:https://digital-bio-2023.acdh.oeaw.ac.at/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240325
-LOCATION:Lisbon\, Portugal
-SUMMARY:NOTIFICATION: DARIAH Annual Event 2024
-UID:c6134dd7-41b8-4b56-b6f8-45216c843ea7@c613.org
-URL:https://annualevent.dariah.eu/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231206
-DURATION:P3D
-LOCATION:Paris\, France
-SUMMARY:Computational Humanities Research
-UID:5132c003-0484-4e91-bc70-574f6b467221@5132.org
-URL:https://2023.computational-humanities-research.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240125
-LOCATION:Riga\, Latvia
-SUMMARY:SUBMISSION: Baltic DH Forum 2024
-UID:b35fccb7-fb42-4ac5-b2a0-ec507234bf4a@b35f.org
-URL:http://www.digitalhumanities.lv/baltic-dh-forum-2024
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240604
-DURATION:P4D
-LOCATION:Leuven\, Belgium
-SUMMARY:DH Benelux 2024
-UID:b3fad6cd-9e1a-49ee-8ef8-b61af3d47c7f@b3fa.org
-URL:https://2024.dhbenelux.org/call-for-papers/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240514
-LOCATION:Belgrád\, Szerbia
-SUMMARY:SUBMISSION: AI in Digital Humanities\, Computational Social Sciences and Economics Research (AI‑HuSo)
-UID:0b3a8108-692f-4713-ba30-87d0b1308069@0b3a.org
-URL:https://2024.fedcsis.org/thematic/ai-huso
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240331
-LOCATION:Sheffield\, Egyesült Királyság
-SUMMARY:NOTIFICATION: Digital Humanities Congress 2024
-UID:543f92c5-5367-42a6-a32c-88d8311a29a0@543f.org
-URL:https://www.dhi.ac.uk/dhc2024/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230613
-LOCATION:Karlsruhe\, Germany
-SUMMARY:NOTIFICATION: 1st Conference on Research Data Infrastructure (CoRDI)
-UID:f32a15db-ba2e-4c36-a143-cb6d1b7a02e3@f32a.org
-URL:https://www.nfdi.de/cordi-2023/?lang=en
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231206
-LOCATION:Passau\, Germany
-SUMMARY:CAMERA-READY: DHd 2024
-UID:f03bcc17-8986-406f-84aa-30d3ac1aacc3@f03b.org
-URL:https://dhd2024.dig-hum.de/call-for-papers/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240430
-LOCATION:Buenos Aires\, Argentina
-SUMMARY:SUBMISSION: Texts\, languages\, and communities – TEI 2024
-UID:500031c2-0510-40d5-b053-8c10ccff620a@5000.org
-URL:https://tei2024.tei-c.org/dates
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240331
-LOCATION:Sheffield\, Egyesült Királyság
-SUMMARY:CAMERA-READY: Digital Humanities Congress 2024
-UID:20f1a655-ec20-464a-bf69-c5dad6be4688@20f1.org
-URL:https://www.dhi.ac.uk/dhc2024/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230606
-DURATION:P4D
-LOCATION:Budapest\, Hungary
-SUMMARY:DARIAH Annual Event 2023
-UID:8dc231e7-5f18-42cf-9dce-3408f84aa620@8dc2.org
-URL:https://annualevent.dariah.eu/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240305
-LOCATION:Washington\, DC\, USA
-SUMMARY:CAMERA-READY: ADHO 2024
-UID:b4b46539-ebc2-47b8-aa18-20c9def89909@b4b4.org
-URL:https://dh2024.adho.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240202
-LOCATION:Catania\, Italy
-SUMMARY:SUBMISSION: AIUCD 2024
-UID:1fd4e1d7-2c4e-49cd-8830-6f1ba15e5d2d@1fd4.org
-URL:https://aiucd2024.unict.it/en/call-for-papers/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240301
-LOCATION:Aarhus\, Dánia
-SUMMARY:NOTIFICATION: IFLA International News Media Conference 2024
-UID:ab2595d6-47bc-40a1-80d1-11efe178e381@ab25.org
-URL:https://twitter.com/ifla_libpub/status/1747230231188971889
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240528
-DURATION:P3D
-LOCATION:Catania\, Italy
-SUMMARY:AIUCD 2024
-UID:5c657ba5-257a-47cf-83a2-607a2e34eaf7@5c65.org
-URL:https://aiucd2024.unict.it/en/call-for-papers/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230710
-DURATION:P5D
-LOCATION:Graz\, Austria
-SUMMARY:ADHO 2023
-UID:a5140b35-9c71-4e58-a5bd-d074afd0b1bd@a514.org
-URL:https://dh2023.adho.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240510
-LOCATION:Aarhus\, Dánia
-SUMMARY:CAMERA-READY: IFLA International News Media Conference 2024
-UID:bd2021a9-0fb0-4629-b1e8-a20659d07d93@bd20.org
-URL:https://twitter.com/ifla_libpub/status/1747230231188971889
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240529
-DURATION:P3D
-LOCATION:Aarhus\, Dánia
-SUMMARY:IFLA International News Media Conference 2024
-UID:6272e71e-b002-47a3-9ab7-64e88173ae29@6272.org
-URL:https://twitter.com/ifla_libpub/status/1747230231188971889
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240131
-LOCATION:Riga\, Latvia
-SUMMARY:NOTIFICATION: Baltic DH Forum 2024
-UID:ca85c17e-0fbf-475a-b181-552a562649f5@ca85.org
-URL:http://www.digitalhumanities.lv/baltic-dh-forum-2024
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240110
-LOCATION:Kitakyushu\, Japan
-SUMMARY:SUBMISSION: 2nd International Workshop on Digital Humanities and Digital World (DHDW 2024)
-UID:a56d1c3d-eef6-43aa-978b-4533a830943d@a56d.org
-URL:https://parsec.unicampania.it/workshops/index.php/dhdw/dhdw24/index
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240211
-LOCATION:Lisbon\, Portugal
-SUMMARY:SUBMISSION: DARIAH Annual Event 2024
-UID:b0d2fc6a-38b8-4759-acca-e1caac902fa8@b0d2.org
-URL:https://annualevent.dariah.eu/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230926
 DURATION:P2D
 LOCATION:Vienna\, Austria
 SUMMARY:Life Narrative and the Digital 2023
-UID:f4dcfb9a-6c69-45f6-a8dd-16b78f51760d@f4dc.org
+UID:3fe8aee2-b658-453a-b7f6-4b7001a3532b@3fe8.org
 URL:https://digital-bio-2023.acdh.oeaw.ac.at/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230620
-LOCATION:Karlsruhe\, Germany
-SUMMARY:CAMERA-READY: 1st Conference on Research Data Infrastructure (CoRDI)
-UID:71ea2e6e-0ed8-43bf-a967-bbad84c2bfae@71ea.org
-URL:https://www.nfdi.de/cordi-2023/?lang=en
+DTSTART;VALUE=DATE:20240904
+DURATION:P2D
+LOCATION:Sheffield\, Egyesült Királyság
+SUMMARY:Digital Humanities Congress 2024
+UID:7fd84453-79bb-4fb3-ba97-35822832992a@7fd8.org
+URL:https://www.dhi.ac.uk/dhc2024/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240417
+DTSTART;VALUE=DATE:20231210
+LOCATION:Washington\, DC\, USA
+SUMMARY:SUBMISSION: ADHO 2024
+UID:9478ea31-6bd4-4eb5-9cc5-993378194fda@9478.org
+URL:https://dh2024.adho.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231013
+LOCATION:Paris\, France
+SUMMARY:CAMERA-READY: Computational Humanities Research
+UID:42883a7f-080e-4dec-8f99-722229379a0a@4288.org
+URL:https://2023.computational-humanities-research.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240902
+LOCATION:Barcelona\, Spain
+SUMMARY:CAMERA-READY: CLARIN Annual Conference 2024
+UID:2d995c1b-e241-4d95-a658-20368fca3fd1@2d99.org
+URL:https://clariah.at/call-for-abstracts-clarin-2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230208
+LOCATION:Budapest\, Hungary
+SUMMARY:SUBMISSION: DARIAH Annual Event 2023
+UID:d8f2d1ee-1913-4581-987f-6ab1238f479a@d8f2.org
+URL:https://annualevent.dariah.eu/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241015
 DURATION:P3D
+LOCATION:Barcelona\, Spain
+SUMMARY:CLARIN Annual Conference 2024
+UID:d3e4e69d-0ade-421a-acfd-c163e96fa76e@d3e4.org
+URL:https://clariah.at/call-for-abstracts-clarin-2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230606
+DURATION:P4D
+LOCATION:Budapest\, Hungary
+SUMMARY:DARIAH Annual Event 2023
+UID:1f916f2c-bd2f-4ed9-8a25-b637e2b4cad0@1f91.org
+URL:https://annualevent.dariah.eu/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230904
+LOCATION:Leuven\, Belgium
+SUMMARY:CAMERA-READY: CLARIN Annual Conference 2023
+UID:c091b49d-4117-4fcd-acb6-95fb379fa652@c091.org
+URL:https://www.clarin.eu/event/2023/clarin-annual-conference-2023
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240528
+DURATION:P3D
+LOCATION:Catania\, Italy
+SUMMARY:AIUCD 2024
+UID:135ada70-58f7-4dae-9e35-a1f5141192aa@135a.org
+URL:https://aiucd2024.unict.it/en/call-for-papers/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240301
+LOCATION:Aarhus\, Dánia
+SUMMARY:NOTIFICATION: IFLA International News Media Conference 2024
+UID:f8e1d6cd-2032-4588-98ef-03549c788d15@f8e1.org
+URL:https://twitter.com/ifla_libpub/status/1747230231188971889
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240617
+LOCATION:Barcelona\, Spain
+SUMMARY:NOTIFICATION: CLARIN Annual Conference 2024
+UID:54ac1ff5-bda0-4419-a9f5-d848082c449c@54ac.org
+URL:https://clariah.at/call-for-abstracts-clarin-2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240225
+DURATION:P6D
+LOCATION:Passau\, Germany
+SUMMARY:DHd 2024
+UID:f5a0e401-9ec6-460c-bf28-a57043071acb@f5a0.org
+URL:https://dhd2024.dig-hum.de/call-for-papers/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240205
 LOCATION:Kitakyushu\, Japan
-SUMMARY:2nd International Workshop on Digital Humanities and Digital World (DHDW 2024)
-UID:54eb1bd9-3edd-4265-9e45-e34cfe6b35f4@54eb.org
+SUMMARY:CAMERA-READY: 2nd International Workshop on Digital Humanities and Digital World (DHDW 2024)
+UID:7c880a10-9bc4-44ca-b7a0-9d5e3b1bebea@7c88.org
+URL:https://parsec.unicampania.it/workshops/index.php/dhdw/dhdw24/index
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240430
+LOCATION:Buenos Aires\, Argentina
+SUMMARY:SUBMISSION: Texts\, languages\, and communities – TEI 2024
+UID:f4e56554-11de-42ce-9dd9-b655e9d6ef7c@f4e5.org
+URL:https://tei2024.tei-c.org/dates
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240806
+DURATION:P4D
+LOCATION:Washington\, DC\, USA
+SUMMARY:ADHO 2024
+UID:aa05efca-0d26-4c2c-bfa5-2013ac46a4e1@aa05.org
+URL:https://dh2024.adho.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231016
+DURATION:P3D
+LOCATION:Leuven\, Belgium
+SUMMARY:CLARIN Annual Conference 2023
+UID:52449c3d-cecc-41af-b3ea-f0820061a5b1@5244.org
+URL:https://www.clarin.eu/event/2023/clarin-annual-conference-2023
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240125
+LOCATION:Riga\, Latvia
+SUMMARY:SUBMISSION: Baltic DH Forum 2024
+UID:ffcfb9d9-903d-444c-b5a6-0b915e2a185b@ffcf.org
+URL:http://www.digitalhumanities.lv/baltic-dh-forum-2024
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230428
+LOCATION:Leuven\, Belgium
+SUMMARY:SUBMISSION: CLARIN Annual Conference 2023
+UID:3d3ab7b9-065d-4d8b-a81c-98cec6987251@3d3a.org
+URL:https://www.clarin.eu/event/2023/clarin-annual-conference-2023
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230630
+LOCATION:Vienna\, Austria
+SUMMARY:CAMERA-READY: Life Narrative and the Digital 2023
+UID:c419aac3-4b90-4a84-b77c-534835a9dc8f@c419.org
+URL:https://digital-bio-2023.acdh.oeaw.ac.at/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240331
+LOCATION:Leuven\, Belgium
+SUMMARY:CAMERA-READY: DH Benelux 2024
+UID:89b64e13-c63b-4731-bf31-502f7116bb58@89b6.org
+URL:https://2024.dhbenelux.org/call-for-papers/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240322
+LOCATION:Catania\, Italy
+SUMMARY:NOTIFICATION: AIUCD 2024
+UID:b256128a-96d9-41b6-b29a-30174446ed1c@b256.org
+URL:https://aiucd2024.unict.it/en/call-for-papers/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230719
+LOCATION:Passau\, Germany
+SUMMARY:SUBMISSION: DHd 2024
+UID:4871f828-0c0d-462d-89af-e6788d23a5c1@4871.org
+URL:https://dhd2024.dig-hum.de/call-for-papers/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240120
+LOCATION:Kitakyushu\, Japan
+SUMMARY:NOTIFICATION: 2nd International Workshop on Digital Humanities and Digital World (DHDW 2024)
+UID:179bda45-3dd4-49ed-84a5-65adb6bd4be6@179b.org
 URL:https://parsec.unicampania.it/workshops/index.php/dhdw/dhdw24/index
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240618
 LOCATION:Belgrád\, Szerbia
 SUMMARY:NOTIFICATION: AI in Digital Humanities\, Computational Social Sciences and Economics Research (AI‑HuSo)
-UID:6e610ca9-6eea-439a-b330-a4866f28f9d8@6e61.org
+UID:c4dbdfa4-d871-45ec-aed3-91f35bb5d5da@c4db.org
 URL:https://2024.fedcsis.org/thematic/ai-huso
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230719
-LOCATION:Passau\, Germany
-SUMMARY:SUBMISSION: DHd 2024
-UID:8170a3e8-1d24-4a97-8186-65f39f02f3ce@8170.org
-URL:https://dhd2024.dig-hum.de/call-for-papers/
+DTSTART;VALUE=DATE:20240709
+LOCATION:Belgrád\, Szerbia
+SUMMARY:CAMERA-READY: AI in Digital Humanities\, Computational Social Sciences and Economics Research (AI‑HuSo)
+UID:409dda3b-bf67-4567-9326-1b0c8abee2ea@409d.org
+URL:https://2024.fedcsis.org/thematic/ai-huso
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240424
+DTSTART;VALUE=DATE:20230315
+LOCATION:Graz\, Austria
+SUMMARY:CAMERA-READY: ADHO 2023
+UID:ad186db4-bb22-4b97-867b-2025134e012e@ad18.org
+URL:https://dh2023.adho.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240325
+LOCATION:Lisbon\, Portugal
+SUMMARY:CAMERA-READY: DARIAH Annual Event 2024
+UID:b798cfa1-208e-4a08-916f-9d5442710554@b798.org
+URL:https://annualevent.dariah.eu/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240417
 DURATION:P3D
-LOCATION:Paris\, France
-SUMMARY:IIPC Web Archiving Conference 2024
-UID:ed00171f-3316-4009-84b8-29d5001c555d@ed00.org
-URL:https://netpreserve.org/ga2024/cfp/
+LOCATION:Kitakyushu\, Japan
+SUMMARY:2nd International Workshop on Digital Humanities and Digital World (DHDW 2024)
+UID:6e19a980-c6f6-49f8-a494-541605a7eb96@6e19.org
+URL:https://parsec.unicampania.it/workshops/index.php/dhdw/dhdw24/index
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240305
-LOCATION:Washington\, DC\, USA
-SUMMARY:NOTIFICATION: ADHO 2024
-UID:65c4a2c3-b69b-4a97-881e-db6b1ba398bc@65c4.org
-URL:https://dh2024.adho.org/
+DTSTART;VALUE=DATE:20240202
+LOCATION:Catania\, Italy
+SUMMARY:SUBMISSION: AIUCD 2024
+UID:87e05ab8-e98e-42b2-ac17-1d5f666bc29b@87e0.org
+URL:https://aiucd2024.unict.it/en/call-for-papers/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240331
+LOCATION:Sheffield\, Egyesült Királyság
+SUMMARY:NOTIFICATION: Digital Humanities Congress 2024
+UID:41710034-dbd4-41db-ba35-8a445b9b4087@4171.org
+URL:https://www.dhi.ac.uk/dhc2024/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240425
 DURATION:P2D
 LOCATION:Riga\, Latvia
 SUMMARY:Baltic DH Forum 2024
-UID:b32fd6bf-51d0-4263-a1d1-06d3233210ed@b32f.org
+UID:799b4ff7-6ffb-4af5-9729-0822cf665c36@799b.org
 URL:http://www.digitalhumanities.lv/baltic-dh-forum-2024
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240301
+LOCATION:Sheffield\, Egyesült Királyság
+SUMMARY:SUBMISSION: Digital Humanities Congress 2024
+UID:9d41bdaa-a1f1-40d5-95b6-23ece2da0fb6@9d41.org
+URL:https://www.dhi.ac.uk/dhc2024/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230924
+LOCATION:Paris\, France
+SUMMARY:SUBMISSION: IIPC Web Archiving Conference 2024
+UID:f19963ef-d3d3-479d-9771-524a6fa08907@f199.org
+URL:https://netpreserve.org/ga2024/cfp/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231113
+LOCATION:Paris\, France
+SUMMARY:NOTIFICATION: IIPC Web Archiving Conference 2024
+UID:23de1ce5-3925-4ef0-8553-408ae39b6513@23de.org
+URL:https://netpreserve.org/ga2024/cfp/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231206
+DURATION:P3D
+LOCATION:Paris\, France
+SUMMARY:Computational Humanities Research
+UID:5c3822f3-3a0b-4b57-98a0-75b02d59e718@5c38.org
+URL:https://2023.computational-humanities-research.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230526
+LOCATION:Vienna\, Austria
+SUMMARY:SUBMISSION: Life Narrative and the Digital 2023
+UID:597ff5fd-22bb-4b02-be5f-99ff034e6376@597f.org
+URL:https://digital-bio-2023.acdh.oeaw.ac.at/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231102
+LOCATION:Passau\, Germany
+SUMMARY:NOTIFICATION: DHd 2024
+UID:a02e6e13-7379-4fe1-b2a2-a5d28b8aadd7@a02e.org
+URL:https://dhd2024.dig-hum.de/call-for-papers/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230327
+LOCATION:Budapest\, Hungary
+SUMMARY:NOTIFICATION: DARIAH Annual Event 2023
+UID:297d8606-fe77-4164-b1e4-e2ace9c431cf@297d.org
+URL:https://annualevent.dariah.eu/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240424
+DURATION:P3D
+LOCATION:Paris\, France
+SUMMARY:IIPC Web Archiving Conference 2024
+UID:ee267cd4-025d-4525-be33-bb3a402a9415@ee26.org
+URL:https://netpreserve.org/ga2024/cfp/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230623
+LOCATION:Vienna\, Austria
+SUMMARY:NOTIFICATION: Life Narrative and the Digital 2023
+UID:2b8c1c00-2bfb-42e7-af9f-49f73b24bff5@2b8c.org
+URL:https://digital-bio-2023.acdh.oeaw.ac.at/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240131
+LOCATION:Leuven\, Belgium
+SUMMARY:SUBMISSION: DH Benelux 2024
+UID:02fac255-d81a-4993-964a-fbdb2a76ff31@02fa.org
+URL:https://2024.dhbenelux.org/call-for-papers/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230620
+LOCATION:Karlsruhe\, Germany
+SUMMARY:CAMERA-READY: 1st Conference on Research Data Infrastructure (CoRDI)
+UID:f764118c-ce9d-4a76-8e73-7b59465a07ac@f764.org
+URL:https://www.nfdi.de/cordi-2023/?lang=en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230308
+LOCATION:Graz\, Austria
+SUMMARY:NOTIFICATION: ADHO 2023
+UID:28895328-6b67-4789-8d3c-db034e3512d6@2889.org
+URL:https://dh2023.adho.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230604
+LOCATION:Leuven\, Belgium
+SUMMARY:NOTIFICATION: CLARIN Annual Conference 2023
+UID:aec8cb17-151f-4ae2-9fde-d47ed6d846a3@aec8.org
+URL:https://www.clarin.eu/event/2023/clarin-annual-conference-2023
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230403
+LOCATION:Budapest\, Hungary
+SUMMARY:CAMERA-READY: DARIAH Annual Event 2023
+UID:d657fb42-fad2-4c21-9894-7f75f515c86f@d657.org
+URL:https://annualevent.dariah.eu/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231206
+LOCATION:Passau\, Germany
+SUMMARY:CAMERA-READY: DHd 2024
+UID:e05231e7-2862-45ef-98e7-60a3cdad3e9b@e052.org
+URL:https://dhd2024.dig-hum.de/call-for-papers/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240331
 LOCATION:Leuven\, Belgium
-SUMMARY:CAMERA-READY: DH Benelux 2024
-UID:edb1b609-a333-4fc4-83ab-5314dae90f2e@edb1.org
+SUMMARY:NOTIFICATION: DH Benelux 2024
+UID:7c016ab2-ef56-4385-be2e-53e2a5fea79d@7c01.org
 URL:https://2024.dhbenelux.org/call-for-papers/
 END:VEVENT
 BEGIN:VEVENT
@@ -339,217 +369,187 @@ DTSTART;VALUE=DATE:20240908
 DURATION:P4D
 LOCATION:Belgrád\, Szerbia
 SUMMARY:AI in Digital Humanities\, Computational Social Sciences and Economics Research (AI‑HuSo)
-UID:598bef10-4d9b-4159-8ed8-fc18d28ab09e@598b.org
+UID:32a0142b-1386-4553-b276-67ef620a641f@32a0.org
 URL:https://2024.fedcsis.org/thematic/ai-huso
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240325
-LOCATION:Lisbon\, Portugal
-SUMMARY:CAMERA-READY: DARIAH Annual Event 2024
-UID:07524461-e687-4c85-af9b-27baf07d2c6f@0752.org
-URL:https://annualevent.dariah.eu/
+DTSTART;VALUE=DATE:20240305
+LOCATION:Washington\, DC\, USA
+SUMMARY:CAMERA-READY: ADHO 2024
+UID:cc8428d4-90e8-4c97-a546-1b79c798288a@cc84.org
+URL:https://dh2024.adho.org/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240617
-LOCATION:Barcelona\, Spain
-SUMMARY:NOTIFICATION: CLARIN Annual Conference 2024
-UID:70817402-9337-4e99-bf62-6da7d6bdedc4@7081.org
-URL:https://clariah.at/call-for-abstracts-clarin-2024/
+DTSTART;VALUE=DATE:20240331
+LOCATION:Sheffield\, Egyesült Királyság
+SUMMARY:CAMERA-READY: Digital Humanities Congress 2024
+UID:72b856c0-8423-495d-9aa6-ef09bf903bb1@72b8.org
+URL:https://www.dhi.ac.uk/dhc2024/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231102
-LOCATION:Passau\, Germany
-SUMMARY:NOTIFICATION: DHd 2024
-UID:ae3bc4f9-6d31-4477-88da-6d19bfa0f44e@ae3b.org
-URL:https://dhd2024.dig-hum.de/call-for-papers/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230426
+DTSTART;VALUE=DATE:20230613
 LOCATION:Karlsruhe\, Germany
-SUMMARY:SUBMISSION: 1st Conference on Research Data Infrastructure (CoRDI)
-UID:075fb191-6a00-4449-8a3b-9dea973ac157@075f.org
+SUMMARY:NOTIFICATION: 1st Conference on Research Data Infrastructure (CoRDI)
+UID:be6e6cec-5046-496f-8441-4327d99aa089@be6e.org
 URL:https://www.nfdi.de/cordi-2023/?lang=en
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240322
-LOCATION:Catania\, Italy
-SUMMARY:NOTIFICATION: AIUCD 2024
-UID:7b3fe937-1264-48e9-a9ef-77ffbc10783a@7b3f.org
-URL:https://aiucd2024.unict.it/en/call-for-papers/
+DTSTART;VALUE=DATE:20240802
+LOCATION:Buenos Aires\, Argentina
+SUMMARY:CAMERA-READY: Texts\, languages\, and communities – TEI 2024
+UID:af0e5f68-288c-4b7f-8f55-18b137818b52@af0e.org
+URL:https://tei2024.tei-c.org/dates
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240618
 DURATION:P4D
 LOCATION:Lisbon\, Portugal
 SUMMARY:DARIAH Annual Event 2024
-UID:39b25abb-b264-45ac-b2ed-2113b2fca7f0@39b2.org
+UID:9b08ccd2-10b5-492a-87e8-f44e4f630d1f@9b08.org
 URL:https://annualevent.dariah.eu/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231210
-LOCATION:Washington\, DC\, USA
-SUMMARY:SUBMISSION: ADHO 2024
-UID:cb150e83-10b3-422a-bec7-2e6d865decb1@cb15.org
-URL:https://dh2024.adho.org/
+DTSTART;VALUE=DATE:20240211
+LOCATION:Lisbon\, Portugal
+SUMMARY:SUBMISSION: DARIAH Annual Event 2024
+UID:9bceb783-fff6-4ec2-93b5-7d67289eef97@9bce.org
+URL:https://annualevent.dariah.eu/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240225
-DURATION:P6D
-LOCATION:Passau\, Germany
-SUMMARY:DHd 2024
-UID:24e32afc-e3c6-4a87-9975-12f2c454f9b8@24e3.org
-URL:https://dhd2024.dig-hum.de/call-for-papers/
+DTSTART;VALUE=DATE:20240110
+LOCATION:Kitakyushu\, Japan
+SUMMARY:SUBMISSION: 2nd International Workshop on Digital Humanities and Digital World (DHDW 2024)
+UID:2644c0dd-d018-451b-a060-6f7a5d3009db@2644.org
+URL:https://parsec.unicampania.it/workshops/index.php/dhdw/dhdw24/index
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230315
-LOCATION:Graz\, Austria
-SUMMARY:CAMERA-READY: ADHO 2023
-UID:cc703b38-f609-45f9-b8a1-8e6e7a0cb495@cc70.org
-URL:https://dh2023.adho.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240131
-LOCATION:Leuven\, Belgium
-SUMMARY:SUBMISSION: DH Benelux 2024
-UID:6118ae4e-722c-4e16-9c64-c4edaa1a0128@6118.org
-URL:https://2024.dhbenelux.org/call-for-papers/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231016
-DURATION:P3D
-LOCATION:Leuven\, Belgium
-SUMMARY:CLARIN Annual Conference 2023
-UID:4cb50b32-f829-4317-928f-e4d986ed6818@4cb5.org
-URL:https://www.clarin.eu/event/2023/clarin-annual-conference-2023
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231113
-LOCATION:Paris\, France
-SUMMARY:NOTIFICATION: IIPC Web Archiving Conference 2024
-UID:92d6e541-2342-4d5d-b325-52af94cb300c@92d6.org
-URL:https://netpreserve.org/ga2024/cfp/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241007
-DURATION:P5D
+DTSTART;VALUE=DATE:20240616
 LOCATION:Buenos Aires\, Argentina
-SUMMARY:Texts\, languages\, and communities – TEI 2024
-UID:9a17e992-eae6-49d3-956d-d5366f6da494@9a17.org
+SUMMARY:NOTIFICATION: Texts\, languages\, and communities – TEI 2024
+UID:36335a6c-70b5-4277-8943-c1932a40cafb@3633.org
 URL:https://tei2024.tei-c.org/dates
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240709
-LOCATION:Belgrád\, Szerbia
-SUMMARY:CAMERA-READY: AI in Digital Humanities\, Computational Social Sciences and Economics Research (AI‑HuSo)
-UID:18824600-01bf-48c8-a66a-c8b5bc19fcbf@1882.org
-URL:https://2024.fedcsis.org/thematic/ai-huso
+DTSTART;VALUE=DATE:20230801
+LOCATION:Paris\, France
+SUMMARY:SUBMISSION: Computational Humanities Research
+UID:4dc62fd4-6847-4d32-bf15-a729e90cda3f@4dc6.org
+URL:https://2023.computational-humanities-research.org/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240229
-LOCATION:Riga\, Latvia
-SUMMARY:CAMERA-READY: Baltic DH Forum 2024
-UID:4f2b51db-5a28-4e63-af11-63c0494d45c6@4f2b.org
-URL:http://www.digitalhumanities.lv/baltic-dh-forum-2024
+DTSTART;VALUE=DATE:20240510
+LOCATION:Aarhus\, Dánia
+SUMMARY:CAMERA-READY: IFLA International News Media Conference 2024
+UID:deaa1459-d9c7-42dd-915a-c7b60615a0da@deaa.org
+URL:https://twitter.com/ifla_libpub/status/1747230231188971889
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240325
+LOCATION:Lisbon\, Portugal
+SUMMARY:NOTIFICATION: DARIAH Annual Event 2024
+UID:ed5b8e6f-4b8b-446b-b4da-5237665bd081@ed5b.org
+URL:https://annualevent.dariah.eu/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240604
+DURATION:P4D
+LOCATION:Leuven\, Belgium
+SUMMARY:DH Benelux 2024
+UID:8a43ef58-85ff-41b1-b7ee-7e55bf2f19db@8a43.org
+URL:https://2024.dhbenelux.org/call-for-papers/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230915
 LOCATION:Paris\, France
 SUMMARY:NOTIFICATION: Computational Humanities Research
-UID:f3e79e91-65ca-4f37-977a-71b5e762a7d0@f3e7.org
+UID:d9c5e885-06d0-4479-8889-7e020f52b42c@d9c5.org
 URL:https://2023.computational-humanities-research.org/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240806
-DURATION:P4D
-LOCATION:Washington\, DC\, USA
-SUMMARY:ADHO 2024
-UID:eb5f04d1-b116-4fee-bcf4-e375ff06d4f5@eb5f.org
-URL:https://dh2024.adho.org/
+DTSTART;VALUE=DATE:20221104
+LOCATION:Graz\, Austria
+SUMMARY:SUBMISSION: ADHO 2023
+UID:18f4d92b-3bb2-4085-85b6-3182b6790e85@18f4.org
+URL:https://dh2023.adho.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240209
+LOCATION:Aarhus\, Dánia
+SUMMARY:SUBMISSION: IFLA International News Media Conference 2024
+UID:88711f19-22f7-4f90-bc1e-d4b27a85b6bd@8871.org
+URL:https://twitter.com/ifla_libpub/status/1747230231188971889
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230912
 DURATION:P3D
 LOCATION:Karlsruhe\, Germany
 SUMMARY:1st Conference on Research Data Infrastructure (CoRDI)
-UID:07f22705-e647-4202-93b4-7766cfa54640@07f2.org
+UID:f06e35a0-5eac-4e06-95fd-a78f044b888b@f06e.org
 URL:https://www.nfdi.de/cordi-2023/?lang=en
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230403
-LOCATION:Budapest\, Hungary
-SUMMARY:CAMERA-READY: DARIAH Annual Event 2023
-UID:a3dd9208-2e43-41da-bcae-a43e7e2d9f8a@a3dd.org
-URL:https://annualevent.dariah.eu/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240419
 LOCATION:Catania\, Italy
 SUMMARY:CAMERA-READY: AIUCD 2024
-UID:4584dc49-b698-4f08-b7d5-c761cb7ebbbd@4584.org
+UID:7d75cdc5-7540-41e5-a8ee-701392b35131@7d75.org
 URL:https://aiucd2024.unict.it/en/call-for-papers/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240209
+DTSTART;VALUE=DATE:20240529
+DURATION:P3D
 LOCATION:Aarhus\, Dánia
-SUMMARY:SUBMISSION: IFLA International News Media Conference 2024
-UID:31da4453-ba47-4514-b182-fc59bed8ad25@31da.org
+SUMMARY:IFLA International News Media Conference 2024
+UID:bc150d31-7a0a-4327-b4ae-64348744015f@bc15.org
 URL:https://twitter.com/ifla_libpub/status/1747230231188971889
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230630
-LOCATION:Vienna\, Austria
-SUMMARY:CAMERA-READY: Life Narrative and the Digital 2023
-UID:8d301ca6-d752-4940-9a3b-b8c13d5aec1d@8d30.org
-URL:https://digital-bio-2023.acdh.oeaw.ac.at/
+DTSTART;VALUE=DATE:20240229
+LOCATION:Riga\, Latvia
+SUMMARY:CAMERA-READY: Baltic DH Forum 2024
+UID:a94a1bbb-2014-4e5f-bae0-df4f8cfbb161@a94a.org
+URL:http://www.digitalhumanities.lv/baltic-dh-forum-2024
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230308
-LOCATION:Graz\, Austria
-SUMMARY:NOTIFICATION: ADHO 2023
-UID:0ada02d1-ff0d-41a5-bd49-9c0a86849e8f@0ada.org
-URL:https://dh2023.adho.org/
+DTSTART;VALUE=DATE:20230426
+LOCATION:Karlsruhe\, Germany
+SUMMARY:SUBMISSION: 1st Conference on Research Data Infrastructure (CoRDI)
+UID:6c7308da-13a8-4f1c-bc52-aa667e074b14@6c73.org
+URL:https://www.nfdi.de/cordi-2023/?lang=en
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240904
-DURATION:P2D
-LOCATION:Sheffield\, Egyesült Királyság
-SUMMARY:Digital Humanities Congress 2024
-UID:ebf91f33-3f5e-4fbf-a50a-07b0ea0cd4f4@ebf9.org
-URL:https://www.dhi.ac.uk/dhc2024/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240802
+DTSTART;VALUE=DATE:20241007
+DURATION:P5D
 LOCATION:Buenos Aires\, Argentina
-SUMMARY:CAMERA-READY: Texts\, languages\, and communities – TEI 2024
-UID:85e0f3f2-daaa-4211-a1da-706cd5fa599f@85e0.org
+SUMMARY:Texts\, languages\, and communities – TEI 2024
+UID:d8057070-f225-4865-a939-9605991e8f78@d805.org
 URL:https://tei2024.tei-c.org/dates
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230924
-LOCATION:Paris\, France
-SUMMARY:SUBMISSION: IIPC Web Archiving Conference 2024
-UID:c140becc-da60-4036-91bf-225761426cfc@c140.org
-URL:https://netpreserve.org/ga2024/cfp/
+DTSTART;VALUE=DATE:20240131
+LOCATION:Riga\, Latvia
+SUMMARY:NOTIFICATION: Baltic DH Forum 2024
+UID:930b4c3b-94a2-40ba-90f6-cb3f5f363d90@930b.org
+URL:http://www.digitalhumanities.lv/baltic-dh-forum-2024
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230604
-LOCATION:Leuven\, Belgium
-SUMMARY:NOTIFICATION: CLARIN Annual Conference 2023
-UID:0e8c5062-8b8a-438b-a3e8-89719b86afdc@0e8c.org
-URL:https://www.clarin.eu/event/2023/clarin-annual-conference-2023
+DTSTART;VALUE=DATE:20240305
+LOCATION:Washington\, DC\, USA
+SUMMARY:NOTIFICATION: ADHO 2024
+UID:212ce465-6c96-42ec-8304-e7d9728121bb@212c.org
+URL:https://dh2024.adho.org/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230327
-LOCATION:Budapest\, Hungary
-SUMMARY:NOTIFICATION: DARIAH Annual Event 2023
-UID:a9ad9992-18bd-49c6-8a78-1e4fb6ec472a@a9ad.org
-URL:https://annualevent.dariah.eu/
+DTSTART;VALUE=DATE:20240514
+LOCATION:Belgrád\, Szerbia
+SUMMARY:SUBMISSION: AI in Digital Humanities\, Computational Social Sciences and Economics Research (AI‑HuSo)
+UID:d2bb7526-1d03-4971-b445-a4f1b7c78db4@d2bb.org
+URL:https://2024.fedcsis.org/thematic/ai-huso
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240331
-LOCATION:Leuven\, Belgium
-SUMMARY:NOTIFICATION: DH Benelux 2024
-UID:5ab5b253-233f-437c-a151-146cfbe0e39e@5ab5.org
-URL:https://2024.dhbenelux.org/call-for-papers/
+DTSTART;VALUE=DATE:20240412
+LOCATION:Barcelona\, Spain
+SUMMARY:SUBMISSION: CLARIN Annual Conference 2024
+UID:ecb37d8c-56eb-4380-90ee-d0fae9f71a2f@ecb3.org
+URL:https://clariah.at/call-for-abstracts-clarin-2024/
 END:VEVENT
 END:VCALENDAR
